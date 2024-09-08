@@ -2,7 +2,6 @@ from utility.colorization import *
 
 
 
-
 enable_virtual_terminal_processing()
 
 def main():
